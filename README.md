@@ -1,1 +1,1 @@
-This repository is being completed. for any inquiries please contact: n.bayati@uottawa.ca
+This repository is being completed. For any inquiries please contact: n.bayati@uottawa.ca
