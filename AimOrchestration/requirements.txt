@@ -1,0 +1,9 @@
+PreProcessing
+outputClustering
+ActionClustering
+IMPRO
+MOCCO
+PostProcessor
+numpy==1.26.0
+pandas==1.5.2
+regex==2023.8.8
