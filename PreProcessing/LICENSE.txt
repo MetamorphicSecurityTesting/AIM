@@ -1,0 +1,13 @@
+This software is © 2023-2024 University of Luxembourg (for code authored by Yoann Marquer), University of Ottawa (for code authored by Nazanin Bayati Chaleshtari).
+
+Authors:
+-       Yoann Marquer - yoann.marquer@uni.lu
+-       Nazanin Bayati Chaleshtari - nbaya076@uottawa.ca
+
+This software is made available solely to the reviewers of the paper titled “AIM: Automated Input Set Minimization for Metamorphic Security Testing” submitted to ACM Transactions on Software Engineering and Methodology.
+
+Except for the reviewers mentioned above, no other user is authorized to access, inspect, and run this software.
+
+The reviewers mentioned above are authorized only to inspect the software source code and execute the software to replicate the results reported in the paper. No other use is allowed.
+
+This software will be released with an appropriate open-source license only after acceptance of the paper mentioned above.
