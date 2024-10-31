@@ -1,0 +1,55 @@
+\begin{table}[t]
+\centering
+\footnotesize
+\caption{Comparison of \joomla costs for configurations with full vulnerability coverage.}
+\label{tab:joomla:duels:costs}
+\begin{tabular}{cc|c|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{costs} & \LevKmeansHdbscan & \textbf{\LevDbscanKmeans} & \BagKmeansHdbscan & \textbf{\BagDbscanKmeans} \\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\LevKmeansHdbscan}} & $\pValue$
+	 & 
+	 & \cellcolor{green!88}\num{1.3e-14}
+	 & \num{6.9e-01}
+	 & \cellcolor{green!90}\num{3.5e-15}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 
+	 & \cellcolor{green!88}0.06
+	 & 0.48
+	 & \cellcolor{green!90}0.05\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{\LevDbscanKmeans}}} & $\pValue$
+	 & \cellcolor{red!88}\num{1.3e-14}
+	 & 
+	 & \cellcolor{red!88}\num{1.3e-14}
+	 & \cellcolor{red!88}\num{7.0e-15}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & \cellcolor{red!88}0.94
+	 & 
+	 & \cellcolor{red!88}0.94
+	 & \cellcolor{red!88}0.94\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\BagKmeansHdbscan}} & $\pValue$
+	 & \num{6.9e-01}
+	 & \cellcolor{green!88}\num{1.3e-14}
+	 & 
+	 & \cellcolor{green!90}\num{3.6e-15}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 0.52
+	 & \cellcolor{green!88}0.06
+	 & 
+	 & \cellcolor{green!90}0.05\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{\BagDbscanKmeans}}} & $\pValue$
+	 & \cellcolor{red!90}\num{3.5e-15}
+	 & \cellcolor{green!88}\num{7.0e-15}
+	 & \cellcolor{red!90}\num{3.6e-15}
+	 & \\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & \cellcolor{red!90}0.95
+	 & \cellcolor{green!88}0.06
+	 & \cellcolor{red!90}0.95
+	 & \\
+\hline
+\end{tabular}
+\end{table}

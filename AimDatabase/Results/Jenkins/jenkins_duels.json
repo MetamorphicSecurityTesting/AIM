@@ -1,0 +1,404 @@
+{
+    "sizes": {
+        "Lev_Kmeans_Kmeans": {
+            "Lev_DBSCAN_Kmeans": {
+                "pValue": 5.387683539059791e-15,
+                "vda": 0.047,
+                "color": "green",
+                "intensity": 0.91
+            },
+            "Lev_HDBSCAN_Kmeans": {
+                "pValue": 0.5060616314080811,
+                "vda": 0.5386,
+                "color": "white"
+            },
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 0.42266279550388997,
+                "vda": 0.5466,
+                "color": "white"
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.8790674877254903,
+                "vda": 0.491,
+                "color": "white"
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.093282375604408e-20,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.7193034631514259,
+                "vda": 0.479,
+                "color": "white"
+            }
+        },
+        "Lev_DBSCAN_Kmeans": {
+            "Lev_HDBSCAN_Kmeans": {
+                "pValue": 1.7994654521736998e-17,
+                "vda": 0.993,
+                "color": "red",
+                "intensity": 0.99
+            },
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 1.3537864472762963e-15,
+                "vda": 0.9632,
+                "color": "red",
+                "intensity": 0.93
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 1.7959547800082546e-14,
+                "vda": 0.9442,
+                "color": "red",
+                "intensity": 0.89
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.165250239863422e-20,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 3.8144580468373526e-14,
+                "vda": 0.9386,
+                "color": "red",
+                "intensity": 0.88
+            }
+        },
+        "Lev_HDBSCAN_Kmeans": {
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 0.9834329279428098,
+                "vda": 0.4986,
+                "color": "white"
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.3362188027157367,
+                "vda": 0.4442,
+                "color": "white"
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.031816911054818e-20,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.15840431899222351,
+                "vda": 0.4182,
+                "color": "white"
+            }
+        },
+        "Bag_Kmeans_Kmeans": {
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.4070188552080892,
+                "vda": 0.4518,
+                "color": "white"
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.16804987687969e-20,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.21357942674292618,
+                "vda": 0.4278,
+                "color": "white"
+            }
+        },
+        "Bag_DBSCAN_Kmeans": {
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.192412518545304e-20,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.6860708477044133,
+                "vda": 0.4764,
+                "color": "white"
+            }
+        },
+        "Bag_DBSCAN_HDBSCAN": {
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 3.201830255529356e-20,
+                "vda": 0.0,
+                "color": "green",
+                "intensity": 1.0
+            }
+        }
+    },
+    "costs": {
+        "Lev_Kmeans_Kmeans": {
+            "Lev_DBSCAN_Kmeans": {
+                "pValue": 2.52647459450793e-16,
+                "vda": 0.0244,
+                "color": "green",
+                "intensity": 0.95
+            },
+            "Lev_HDBSCAN_Kmeans": {
+                "pValue": 5.919437598564253e-05,
+                "vda": 0.7332,
+                "color": "red",
+                "intensity": 0.47
+            },
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 0.0153764705416683,
+                "vda": 0.6408,
+                "color": "red",
+                "intensity": 0.28
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.0043602378217657885,
+                "vda": 0.6656,
+                "color": "red",
+                "intensity": 0.33
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 4.067911827440801e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.005404195875413781,
+                "vda": 0.6616,
+                "color": "red",
+                "intensity": 0.32
+            }
+        },
+        "Lev_DBSCAN_Kmeans": {
+            "Lev_HDBSCAN_Kmeans": {
+                "pValue": 7.02475093087727e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 9.484990934800349e-18,
+                "vda": 0.998,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 7.023166241235277e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 4.070746156223658e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 7.02475093087727e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            }
+        },
+        "Lev_HDBSCAN_Kmeans": {
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 0.10299257120691678,
+                "vda": 0.4052,
+                "color": "white"
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.23979812905064746,
+                "vda": 0.4316,
+                "color": "white"
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 4.070746156223658e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.13553447342216302,
+                "vda": 0.4132,
+                "color": "white"
+            }
+        },
+        "Bag_Kmeans_Kmeans": {
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.5788963970520824,
+                "vda": 0.5324,
+                "color": "white"
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 4.070746156223658e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.6123405644923076,
+                "vda": 0.5296,
+                "color": "white"
+            }
+        },
+        "Bag_DBSCAN_Kmeans": {
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 4.069801172039923e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.8227049379975939,
+                "vda": 0.4868,
+                "color": "white"
+            }
+        },
+        "Bag_DBSCAN_HDBSCAN": {
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 4.070746156223658e-18,
+                "vda": 0.0,
+                "color": "green",
+                "intensity": 1.0
+            }
+        }
+    },
+    "times": {
+        "Lev_Kmeans_Kmeans": {
+            "Lev_DBSCAN_Kmeans": {
+                "pValue": 1.521081101795665e-06,
+                "vda": 0.7766,
+                "color": "red",
+                "intensity": 0.55
+            },
+            "Lev_HDBSCAN_Kmeans": {
+                "pValue": 9.96214172054798e-12,
+                "vda": 0.8928,
+                "color": "red",
+                "intensity": 0.79
+            },
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 0.02035598891769595,
+                "vda": 0.6338,
+                "color": "red",
+                "intensity": 0.27
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 3.819762059675203e-05,
+                "vda": 0.7374,
+                "color": "red",
+                "intensity": 0.47
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.1107117373568007e-18,
+                "vda": 0.9984,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 1.2915539115425884e-09,
+                "vda": 0.8506,
+                "color": "red",
+                "intensity": 0.7
+            }
+        },
+        "Lev_DBSCAN_Kmeans": {
+            "Lev_HDBSCAN_Kmeans": {
+                "pValue": 1.1916450938702522e-05,
+                "vda": 0.7506,
+                "color": "red",
+                "intensity": 0.5
+            },
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 0.0038913402859269385,
+                "vda": 0.3346,
+                "color": "green",
+                "intensity": 0.33
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.5434846186714146,
+                "vda": 0.535,
+                "color": "white"
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 2.628363732978001e-18,
+                "vda": 0.9984,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.0011057825670386678,
+                "vda": 0.6874,
+                "color": "red",
+                "intensity": 0.37
+            }
+        },
+        "Lev_HDBSCAN_Kmeans": {
+            "Bag_Kmeans_Kmeans": {
+                "pValue": 1.7485570598223507e-09,
+                "vda": 0.1534,
+                "color": "green",
+                "intensity": 0.69
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.001437752728443104,
+                "vda": 0.3174,
+                "color": "green",
+                "intensity": 0.37
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.202244421981901e-17,
+                "vda": 0.9808,
+                "color": "red",
+                "intensity": 0.96
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.8695414943527587,
+                "vda": 0.4904,
+                "color": "white"
+            }
+        },
+        "Bag_Kmeans_Kmeans": {
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 0.008007344233127284,
+                "vda": 0.6524,
+                "color": "red",
+                "intensity": 0.3
+            },
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 3.0407106211507874e-18,
+                "vda": 0.9984,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 6.67286665346886e-07,
+                "vda": 0.7866,
+                "color": "red",
+                "intensity": 0.57
+            }
+        },
+        "Bag_DBSCAN_Kmeans": {
+            "Bag_DBSCAN_HDBSCAN": {
+                "pValue": 1.4683177662034763e-17,
+                "vda": 0.9872,
+                "color": "red",
+                "intensity": 0.97
+            },
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 0.01085767947303931,
+                "vda": 0.6464,
+                "color": "red",
+                "intensity": 0.29
+            }
+        },
+        "Bag_DBSCAN_HDBSCAN": {
+            "Bag_HDBSCAN_Kmeans": {
+                "pValue": 6.311617060643684e-16,
+                "vda": 0.0384,
+                "color": "green",
+                "intensity": 0.92
+            }
+        }
+    }
+}

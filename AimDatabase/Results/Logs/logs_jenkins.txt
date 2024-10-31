@@ -1,0 +1,40 @@
+(venv) UNIC02FD1LPMD6V:AimExamples yoann.marquer$ evalAim Results/Jenkins/jenkins_results.json -b Results/Jenkins/jenkins_baselines.json -a Results/Jenkins/jenkins_analysis.json -d Results/Jenkins/jenkins_duels.json -v
+read data from file Results/Jenkins/jenkins_results.json
+read data from file Results/Jenkins/jenkins_baselines.json
+analyze results
+compute inputset vulnerability coverages
+compute inputset sizes
+compute inputset costs
+compute AIM execution times
+configuration		cover	size	cost	time
+Lev_Kmeans_Kmeans	450	3220	6272007	1289
+Lev_Kmeans_DBSCAN	371	1483	3039515	1032
+Lev_Kmeans_HDBSCAN	379	2458	4702249	923
+Lev_DBSCAN_Kmeans	450	3740	7618677	1127
+Lev_DBSCAN_DBSCAN	400	2028	4448482	800
+Lev_DBSCAN_HDBSCAN	400	2750	5715150	753
+Lev_HDBSCAN_Kmeans	450	3192	5841874	1045
+Lev_HDBSCAN_DBSCAN	403	2006	3666018	803
+Lev_HDBSCAN_HDBSCAN	447	2451	4741955	760
+Bag_Kmeans_Kmeans	450	3171	5977206	1215
+Bag_Kmeans_DBSCAN	403	1390	2948064	897
+Bag_Kmeans_HDBSCAN	410	2298	4529121	916
+Bag_DBSCAN_Kmeans	450	3178	5858593	1146
+Bag_DBSCAN_DBSCAN	338	1238	1953310	795
+Bag_DBSCAN_HDBSCAN	450	1900	3525038	838
+Bag_HDBSCAN_Kmeans	450	3255	5943606	1062
+Bag_HDBSCAN_DBSCAN	404	2042	4065909	780
+Bag_HDBSCAN_HDBSCAN	428	2478	4879198	821
+RT			339	3756	6890527	0
+ART_Kmeans		447	4746	9684947	0
+ART_DBSCAN		77	234	404380	0
+ART_HDBSCAN		350	2840	6336295	0
+data written in Results/Jenkins/jenkins_analysis.json
+configurations with full coverage:
+Lev_Kmeans_Kmeans
+Lev_DBSCAN_Kmeans
+Lev_HDBSCAN_Kmeans
+Bag_Kmeans_Kmeans
+Bag_DBSCAN_Kmeans
+Bag_DBSCAN_HDBSCAN
+Bag_HDBSCAN_Kmeans

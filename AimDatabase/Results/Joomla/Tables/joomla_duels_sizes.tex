@@ -1,0 +1,55 @@
+\begin{table}[t]
+\centering
+\footnotesize
+\caption{Comparison of \joomla sizes for configurations with full vulnerability coverage.}
+\label{tab:joomla:duels:sizes}
+\begin{tabular}{cc|c|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{sizes} & \LevKmeansHdbscan & \textbf{\LevDbscanKmeans} & \BagKmeansHdbscan & \textbf{\BagDbscanKmeans} \\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\LevKmeansHdbscan}} & $\pValue$
+	 & 
+	 & \cellcolor{green!88}\num{4.8e-15}
+	 & \num{1.3e-01}
+	 & \cellcolor{green!88}\num{2.9e-16}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 
+	 & \cellcolor{green!88}0.06
+	 & 0.42
+	 & \cellcolor{green!88}0.06\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{\LevDbscanKmeans}}} & $\pValue$
+	 & \cellcolor{red!88}\num{4.8e-15}
+	 & 
+	 & \cellcolor{red!88}\num{1.1e-14}
+	 & \cellcolor{red!88}\num{4.5e-16}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & \cellcolor{red!88}0.94
+	 & 
+	 & \cellcolor{red!88}0.94
+	 & \cellcolor{red!88}0.94\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\BagKmeansHdbscan}} & $\pValue$
+	 & \num{1.3e-01}
+	 & \cellcolor{green!88}\num{1.1e-14}
+	 & 
+	 & \cellcolor{green!88}\num{7.4e-16}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 0.58
+	 & \cellcolor{green!88}0.06
+	 & 
+	 & \cellcolor{green!88}0.06\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{\BagDbscanKmeans}}} & $\pValue$
+	 & \cellcolor{red!88}\num{2.9e-16}
+	 & \cellcolor{green!88}\num{4.5e-16}
+	 & \cellcolor{red!88}\num{7.4e-16}
+	 & \\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & \cellcolor{red!88}0.94
+	 & \cellcolor{green!88}0.06
+	 & \cellcolor{red!88}0.94
+	 & \\
+\hline
+\end{tabular}
+\end{table}

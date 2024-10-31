@@ -1,0 +1,37 @@
+(venv) UNIC02FD1LPMD6V:AimExamples yoann.marquer$ evalAim Results/Joomla/joomla_results.json -b Results/Joomla/joomla_baselines.json -a Results/Joomla/joomla_analysis.json -d Results/Joomla/joomla_duels.json -v
+read data from file Results/Joomla/joomla_results.json
+read data from file Results/Joomla/joomla_baselines.json
+analyze results
+compute inputset vulnerability coverages
+compute inputset sizes
+compute inputset costs
+compute AIM execution times
+configuration		cover	size	cost	time
+Lev_Kmeans_Kmeans	146	2167	40540127	798
+Lev_Kmeans_DBSCAN	50	1544	27626859	712
+Lev_Kmeans_HDBSCAN	150	1801	29035262	703
+Lev_DBSCAN_Kmeans	150	2073	43617636	1272
+Lev_DBSCAN_DBSCAN	50	1650	33691650	1774
+Lev_DBSCAN_HDBSCAN	50	2052	35361258	2281
+Lev_HDBSCAN_Kmeans	100	1699	28081069	543
+Lev_HDBSCAN_DBSCAN	100	1655	30667975	450
+Lev_HDBSCAN_HDBSCAN	100	1750	28188100	400
+Bag_Kmeans_Kmeans	133	2111	39632206	876
+Bag_Kmeans_DBSCAN	50	1505	27962977	745
+Bag_Kmeans_HDBSCAN	150	1822	29570530	745
+Bag_DBSCAN_Kmeans	150	2008	43129559	1110
+Bag_DBSCAN_DBSCAN	50	1594	32317975	1715
+Bag_DBSCAN_HDBSCAN	50	2050	35812250	1994
+Bag_HDBSCAN_Kmeans	100	1718	33639441	532
+Bag_HDBSCAN_DBSCAN	100	1684	35275148	452
+Bag_HDBSCAN_HDBSCAN	100	1800	33685100	446
+RT			74	2209	69574345	0
+ART_Kmeans		125	3500	115639229	0
+ART_DBSCAN		22	149	5477520	0
+ART_HDBSCAN		68	2302	84175183	0
+data written in Results/Joomla/joomla_analysis.json
+configurations with full coverage:
+Lev_Kmeans_HDBSCAN
+Lev_DBSCAN_Kmeans
+Bag_Kmeans_HDBSCAN
+Bag_DBSCAN_Kmeans

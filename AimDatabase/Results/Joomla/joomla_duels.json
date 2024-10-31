@@ -1,0 +1,132 @@
+{
+    "sizes": {
+        "Lev_Kmeans_HDBSCAN": {
+            "Lev_DBSCAN_Kmeans": {
+                "pValue": 4.845702849734917e-15,
+                "vda": 0.06,
+                "color": "green",
+                "intensity": 0.88
+            },
+            "Bag_Kmeans_HDBSCAN": {
+                "pValue": 0.13444614415853645,
+                "vda": 0.421,
+                "color": "white"
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 2.8873629129361125e-16,
+                "vda": 0.06,
+                "color": "green",
+                "intensity": 0.88
+            }
+        },
+        "Lev_DBSCAN_Kmeans": {
+            "Bag_Kmeans_HDBSCAN": {
+                "pValue": 1.0769476303922856e-14,
+                "vda": 0.94,
+                "color": "red",
+                "intensity": 0.88
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 4.461557693213173e-16,
+                "vda": 0.94,
+                "color": "red",
+                "intensity": 0.88
+            }
+        },
+        "Bag_Kmeans_HDBSCAN": {
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 7.439905451990661e-16,
+                "vda": 0.06,
+                "color": "green",
+                "intensity": 0.88
+            }
+        }
+    },
+    "costs": {
+        "Lev_Kmeans_HDBSCAN": {
+            "Lev_DBSCAN_Kmeans": {
+                "pValue": 1.313525644161545e-14,
+                "vda": 0.06,
+                "color": "green",
+                "intensity": 0.88
+            },
+            "Bag_Kmeans_HDBSCAN": {
+                "pValue": 0.6850058438251876,
+                "vda": 0.4764,
+                "color": "white"
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 3.471275652796306e-15,
+                "vda": 0.0504,
+                "color": "green",
+                "intensity": 0.9
+            }
+        },
+        "Lev_DBSCAN_Kmeans": {
+            "Bag_Kmeans_HDBSCAN": {
+                "pValue": 1.3438154680986646e-14,
+                "vda": 0.94,
+                "color": "red",
+                "intensity": 0.88
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 6.992196275607707e-15,
+                "vda": 0.94,
+                "color": "red",
+                "intensity": 0.88
+            }
+        },
+        "Bag_Kmeans_HDBSCAN": {
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 3.554842177803883e-15,
+                "vda": 0.0504,
+                "color": "green",
+                "intensity": 0.9
+            }
+        }
+    },
+    "times": {
+        "Lev_Kmeans_HDBSCAN": {
+            "Lev_DBSCAN_Kmeans": {
+                "pValue": 2.485513758571547e-18,
+                "vda": 0.0,
+                "color": "green",
+                "intensity": 1.0
+            },
+            "Bag_Kmeans_HDBSCAN": {
+                "pValue": 0.003579933247382094,
+                "vda": 0.3348,
+                "color": "green",
+                "intensity": 0.33
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 1.1701040227791042e-18,
+                "vda": 0.0,
+                "color": "green",
+                "intensity": 1.0
+            }
+        },
+        "Lev_DBSCAN_Kmeans": {
+            "Bag_Kmeans_HDBSCAN": {
+                "pValue": 2.812780425687475e-18,
+                "vda": 1.0,
+                "color": "red",
+                "intensity": 1.0
+            },
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 1.5081268263543413e-18,
+                "vda": 0.9958,
+                "color": "red",
+                "intensity": 0.99
+            }
+        },
+        "Bag_Kmeans_HDBSCAN": {
+            "Bag_DBSCAN_Kmeans": {
+                "pValue": 1.330589702325052e-18,
+                "vda": 0.0,
+                "color": "green",
+                "intensity": 1.0
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+\begin{table}[t]
+\centering
+\setlength\tabcolsep{3.5pt}
+\footnotesize
+\caption{Comparison of genetic algorithms for \jenkins (600 s).}
+\label{tab:jenkins:algos600}
+\begin{tabular}{cc|c|c|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{costs} & \algoRandom & \algoGreedy & \geneticAlgo & \mosa & \nsgaThree \\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\algoRandom}} & $\pValue$
+	 & 
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & 
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\algoGreedy}} & $\pValue$
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & 
+	 & \cellcolor{red!98}\num{1.1e-09}
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{green!100}\num{1.8e-15}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & 
+	 & \cellcolor{red!98}0.99
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!100}0.0\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\geneticAlgo}} & $\pValue$
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{green!98}\num{1.1e-09}
+	 & 
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{green!100}\num{1.8e-15}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!98}0.01
+	 & 
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!100}0.0\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\mosa}} & $\pValue$
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & 
+	 & \cellcolor{red!100}\num{1.8e-15}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0
+	 & 
+	 & \cellcolor{red!100}1.0\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\nsgaThree}} & $\pValue$
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{green!100}0.0
+	 & \\
+\hline
+\end{tabular}
+\end{table}

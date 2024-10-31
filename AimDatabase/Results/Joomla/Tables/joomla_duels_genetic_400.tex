@@ -1,0 +1,77 @@
+\begin{table}[t]
+\centering
+\setlength\tabcolsep{3.5pt}
+\footnotesize
+\caption{Comparison of genetic algorithms for \joomla (400 s).}
+\label{tab:joomla:algos400}
+\begin{tabular}{cc|c|c|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{costs} & \algoRandom & \algoGreedy & \geneticAlgo & \mosa & \nsgaThree \\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\algoRandom}} & $\pValue$
+	 & 
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{4.7e-10}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & 
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\algoGreedy}} & $\pValue$
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & 
+	 & \cellcolor{red!32}\num{3.2e-02}
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{green!70}\num{1.3e-05}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & 
+	 & \cellcolor{red!32}0.66
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!70}0.15\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\geneticAlgo}} & $\pValue$
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{green!32}\num{3.2e-02}
+	 & 
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{green!78}\num{9.4e-07}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!32}0.34
+	 & 
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!78}0.11\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\mosa}} & $\pValue$
+	 & \cellcolor{green!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & \cellcolor{red!100}\num{1.8e-15}
+	 & 
+	 & \cellcolor{red!69}\num{1.8e-05}\\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!100}1.0
+	 & 
+	 & \cellcolor{red!69}0.84\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\nsgaThree}} & $\pValue$
+	 & \cellcolor{green!100}\num{4.7e-10}
+	 & \cellcolor{red!70}\num{1.3e-05}
+	 & \cellcolor{red!78}\num{9.4e-07}
+	 & \cellcolor{green!69}\num{1.8e-05}
+	 & \\
+\multicolumn{1}{|c|}{} & $\effectSize$
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{red!70}0.85
+	 & \cellcolor{red!78}0.89
+	 & \cellcolor{green!69}0.16
+	 & \\
+\hline
+\end{tabular}
+\end{table}

@@ -1,0 +1,130 @@
+\begin{table}[t]
+\centering
+\footnotesize
+\caption{Comparison of \jenkins sizes for configurations with full vulnerability coverage.}
+\label{tab:jenkins:duels:sizes}
+\begin{tabular}{cc|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{sizes} & \LevKmeansKmeans & \textbf{\LevDbscanKmeans} & \LevHdbscanKmeans & \BagKmeansKmeans & \textbf{\BagDbscanKmeans} & \BagDbscanHdbscan & \BagHdbscanKmeans \\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\LevKmeansKmeans}} & $\pValue$
+	 & 
+	 & \cellcolor{green!91}\num{5.4e-15}
+	 & \num{5.1e-01}
+	 & \num{4.2e-01}
+	 & \num{8.8e-01}
+	 & \cellcolor{red!100}\num{3.1e-20}
+	 & \num{7.2e-01}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 
+	 & \cellcolor{green!91}0.05
+	 & 0.54
+	 & 0.55
+	 & 0.49
+	 & \cellcolor{red!100}1.0
+	 & 0.48\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{\LevDbscanKmeans}}} & $\pValue$
+	 & \cellcolor{red!91}\num{5.4e-15}
+	 & 
+	 & \cellcolor{red!99}\num{1.8e-17}
+	 & \cellcolor{red!93}\num{1.4e-15}
+	 & \cellcolor{red!89}\num{1.8e-14}
+	 & \cellcolor{red!100}\num{3.2e-20}
+	 & \cellcolor{red!88}\num{3.8e-14}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & \cellcolor{red!91}0.95
+	 & 
+	 & \cellcolor{red!99}0.99
+	 & \cellcolor{red!93}0.96
+	 & \cellcolor{red!89}0.94
+	 & \cellcolor{red!100}1.0
+	 & \cellcolor{red!88}0.94\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\LevHdbscanKmeans}} & $\pValue$
+	 & \num{5.1e-01}
+	 & \cellcolor{green!99}\num{1.8e-17}
+	 & 
+	 & \num{9.8e-01}
+	 & \num{3.4e-01}
+	 & \cellcolor{red!100}\num{3.0e-20}
+	 & \num{1.6e-01}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 0.46
+	 & \cellcolor{green!99}0.01
+	 & 
+	 & 0.5
+	 & 0.44
+	 & \cellcolor{red!100}1.0
+	 & 0.42\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\BagKmeansKmeans}} & $\pValue$
+	 & \num{4.2e-01}
+	 & \cellcolor{green!93}\num{1.4e-15}
+	 & \num{9.8e-01}
+	 & 
+	 & \num{4.1e-01}
+	 & \cellcolor{red!100}\num{3.2e-20}
+	 & \num{2.1e-01}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 0.45
+	 & \cellcolor{green!93}0.04
+	 & 0.5
+	 & 
+	 & 0.45
+	 & \cellcolor{red!100}1.0
+	 & 0.43\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\textbf{\BagDbscanKmeans}}} & $\pValue$
+	 & \num{8.8e-01}
+	 & \cellcolor{green!89}\num{1.8e-14}
+	 & \num{3.4e-01}
+	 & \num{4.1e-01}
+	 & 
+	 & \cellcolor{red!100}\num{3.2e-20}
+	 & \num{6.9e-01}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 0.51
+	 & \cellcolor{green!89}0.06
+	 & 0.56
+	 & 0.55
+	 & 
+	 & \cellcolor{red!100}1.0
+	 & 0.48\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\BagDbscanHdbscan}} & $\pValue$
+	 & \cellcolor{green!100}\num{3.1e-20}
+	 & \cellcolor{green!100}\num{3.2e-20}
+	 & \cellcolor{green!100}\num{3.0e-20}
+	 & \cellcolor{green!100}\num{3.2e-20}
+	 & \cellcolor{green!100}\num{3.2e-20}
+	 & 
+	 & \cellcolor{green!100}\num{3.2e-20}\\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!100}0.0
+	 & \cellcolor{green!100}0.0
+	 & 
+	 & \cellcolor{green!100}0.0\\
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{\BagHdbscanKmeans}} & $\pValue$
+	 & \num{7.2e-01}
+	 & \cellcolor{green!88}\num{3.8e-14}
+	 & \num{1.6e-01}
+	 & \num{2.1e-01}
+	 & \num{6.9e-01}
+	 & \cellcolor{red!100}\num{3.2e-20}
+	 & \\
+\multicolumn{1}{|c|}{} & $\vda$
+	 & 0.52
+	 & \cellcolor{green!88}0.06
+	 & 0.58
+	 & 0.57
+	 & 0.52
+	 & \cellcolor{red!100}1.0
+	 & \\
+\hline
+\end{tabular}
+\end{table}
