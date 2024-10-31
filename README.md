@@ -5,11 +5,11 @@
 ## Installation
 
 To walk you through using the AIM pipeline, we set up
-[this repository](https://github.com/MetamorphicSecurityTesting/AIM/AimDatabase) 
+[this repository](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/AimDatabase) 
 with examples.
 You can clone and navigate the corresponding directory by running:
 ```
-git clone ssh://git@github.com/MetamorphicSecurityTesting/AIM/AimDatabase.git
+git clone ssh://git@github.com/MetamorphicSecurityTesting/AIM/tree/main/AimDatabase.git
 cd AimDatabase
 ```
 
@@ -36,13 +36,13 @@ pip install .
 ```
 
 Using dependencies, this will install the AIM
-[PreProcessing](https://github.com/MetamorphicSecurityTesting/InputSetRefiner),
-[OutputClustering](https://github.com/MetamorphicSecurityTesting/ActionSubclassesBuilder),
-[ActionClustering](https://github.com/MetamorphicSecurityTesting/OutputClassesBuilder),
+[PreProcessing](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/PreProcessing),
+[OutputClustering](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/ActionClustering),
+[ActionClustering](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/OutputClustering),
 [IMPRO](https://github.com/MetamorphicSecurityTesting/IMPRO),
 [MOCCO](https://github.com/MetamorphicSecurityTesting/GeneticAlgorithm),
 [PostProcessing](https://github.com/MetamorphicSecurityTesting/PostProcessor), and
-[AimInputSetMinimizer](https://github.com/MetamorphicSecurityTesting/AimInputSetMinimizer)
+[AimInputSetMinimizer](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/AimOrchestration)
 packages.
 
 This will also install other packages that are imported by the AIM tool.
