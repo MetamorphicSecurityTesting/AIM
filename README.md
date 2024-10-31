@@ -5,12 +5,12 @@
 ## Installation
 
 To walk you through using the AIM pipeline, we set up
-[this repository](https://github.com/MetamorphicSecurityTesting/AimExamples)
+[this repository](https://github.com/MetamorphicSecurityTesting/AIM/AimDatabase) 
 with examples.
 You can clone and navigate the corresponding directory by running:
 ```
-git clone ssh://git@github.com/MetamorphicSecurityTesting/AimExamples.git
-cd AimExamples
+git clone ssh://git@github.com/MetamorphicSecurityTesting/AIM/AimDatabase.git
+cd AimDatabase
 ```
 
 First, you can set up and activate a virtual environment in your working directory with, for Mac/Linux:
