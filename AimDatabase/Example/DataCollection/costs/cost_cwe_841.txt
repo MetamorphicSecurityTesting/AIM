@@ -1,0 +1,2244 @@
+*** Starting time: 2023-07-23 10:09:14 ***
+!!!EXECUTING smrl.mr.owasp.CWE_841
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 0
+MR tested with 1 sets of inputs
+Source input instances : 0
+Follow-up input instances : 0
+	Input source input instances: 0 follow-up input instances: 0
+Source input sequences (Input) : 0
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 1
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 2
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 3
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 4
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 5
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 6
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 7
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 8
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 9
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 10
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 11
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 12
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 13
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 14
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 15
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 16
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 17
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 18
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 19
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 20
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 21
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 22
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 23
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 24
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 25
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 26
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 27
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 28
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 29
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 30
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 31
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 32
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 33
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 34
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 35
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 36
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 37
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 38
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 39
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 40
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 41
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 42
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 43
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 44
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 45
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 46
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 47
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 48
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 49
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 50
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 51
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 52
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 53
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 54
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 55
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 56
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 57
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 58
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 59
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 60
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 61
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 62
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 63
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 64
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 65
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 66
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 67
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 68
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 69
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 70
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 71
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 72
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 73
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 74
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 75
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 76
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 77
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 78
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 79
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 80
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 81
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 82
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 83
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 84
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 85
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 86
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 87
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 88
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 89
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 90
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 91
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 92
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 93
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 94
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 95
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 96
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 97
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 98
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 99
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 100
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 101
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 102
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 103
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 104
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 105
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 106
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 107
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 108
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 109
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 110
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 111
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 112
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 113
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 114
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 115
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 116
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 117
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 118
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 119
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 120
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 121
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 122
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 123
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 124
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 125
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 126
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 127
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 128
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 129
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 130
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 131
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 132
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 133
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 134
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 135
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 136
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 137
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 138
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 139
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 140
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 141
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 142
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 143
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 144
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 145
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 146
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 147
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 148
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 149
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 150
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 151
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 152
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 153
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 154
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 155
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 156
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 157
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 158
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 159
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions: 0
+********DEBUG: CWE Logic A took 40 Seconds
+*** Ending time: 2023-07-23 10:09:55 ***

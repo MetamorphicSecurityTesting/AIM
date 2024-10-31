@@ -1,0 +1,3579 @@
+*** Starting time: 2023-04-24 10:45:55 ***
+!!!EXECUTING smrl.mr.owasp.CWE_262_263_309_324
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 0
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 42578
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:45:58 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 1
+Operation input length:3
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 31716
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:46:20 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 3
+Total number of executed actions : 3
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 2
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 23608
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:46:29 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: Configure		!!! Cannot get id for the action: Build with Parameters --> NOT DONE
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 3
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 30749
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:46:56 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: Configure		!!! Cannot get id for the action: Build with Parameters --> NOT DONE
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 4
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 23806
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:47:20 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 5
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 34792
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:47:32 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 6
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 32928
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:47:48 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 7
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 27894
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:48:10 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 8
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 45187
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:48:26 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 9
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 36542
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:48:44 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 10
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 29338
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:49:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 11
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4930
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:49:20 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 12
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 37948
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:49:38 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 13
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 15988
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:49:56 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 14
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 20704
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:50:14 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 15
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 35697
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:50:30 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 16
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 8647
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:50:46 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 17
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 24690
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:50:57 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 18
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47899
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:51:09 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 19
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 35651
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:51:20 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 20
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 13627
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:51:31 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 21
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 25056
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:51:42 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 22
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 3908
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:51:53 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 23
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 34576
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:52:04 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 24
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 36094
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:52:15 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 25
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 9624
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:52:27 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 26
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 26129
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:52:38 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 27
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 39988
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:52:50 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 28
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 45814
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:53:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 29
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22105
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:53:13 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 30
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 5465
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:53:24 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 31
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 23838
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:53:35 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 32
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47688
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:53:46 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 33
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 36663
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:53:58 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 34
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 45760
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:54:09 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 35
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 46262
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:54:20 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 36
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 23825
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:54:31 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 37
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 37464
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:54:47 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 38
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 17447
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:55:13 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 39
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 11134
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:55:37 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 40
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 45427
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:56:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 41
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 9430
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:56:24 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 42
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 24009
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:56:47 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 43
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 33174
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:57:11 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 44
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 28407
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:57:33 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 45
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47417
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:58:04 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 46
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47212
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:58:35 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 47
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 14641
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:59:06 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 48
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 5899
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 10:59:38 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 49
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 9113
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:00:13 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 50
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22548
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:00:38 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 51
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 19359
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:01:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 52
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 36229
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:01:27 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 53
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4509
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:01:52 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 54
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 7721
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:02:12 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 55
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 8853
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:02:35 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 56
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 19847
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:02:57 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 57
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22714
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:03:22 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 58
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 15679
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:03:47 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 59
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 35796
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:04:12 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 60
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 38711
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:04:37 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 61
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 11496
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:05:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 62
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 11015
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:05:17 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 63
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 8157
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:05:33 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 64
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 6187
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:05:49 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 65
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 19742
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:06:07 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 66
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 18220
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:06:25 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 67
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 17835
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:06:43 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 68
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 44473
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:07:06 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 69
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 35295
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:07:26 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 70
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4246
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:07:44 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 71
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22528
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:08:04 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 72
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 1411
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:08:24 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 73
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 33895
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:08:44 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 74
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 3432
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:09:04 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 75
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 35058
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:09:24 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 76
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 14299
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:09:44 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 77
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 40017
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:10:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 78
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22891
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:10:16 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 79
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 37888
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:10:34 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 80
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47168
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:11:03 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 81
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 10453
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:11:28 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 82
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 15565
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:11:53 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 83
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47972
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:12:25 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="job/.../" class="model-link inside">jobWithFileParam</a> is not clickable at point (187, 566). Other element would receive the click: <div class="bd">...</div>
+  (Session info: headless chrome=112.0.5615.138)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: '1810-ST-458MHX2', ip: '169.254.175.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:57527}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a1bc4b2972c0b020518269140b5b7779
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at smrl.mr.crawljax.WebProcessor.processInput(WebProcessor.java:1026)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:657)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:615)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:686)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:674)
+	at smrl.mr.language.Operations.Output(Operations.java:784)
+	at smrl.mr.owasp.CWE_262_263_309_324.mr(CWE_262_263_309_324.java:14)
+	at smrl.mr.language.MR.iterateMR(MR.java:371)
+	at smrl.mr.language.MR.iterateMR(MR.java:442)
+	at smrl.mr.language.MR.run(MR.java:200)
+	at smrl.mr.language.MRRunner.runAndGetFailures(MRRunner.java:79)
+	at smrl.mr.language.MRBaseTest.test(MRBaseTest.java:44)
+	at cwe.tests.CWETest.Test_CWE138(CWETest.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:768)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 84
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4833
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:12:55 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 85
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 14933
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:13:25 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="rssFailed" class="rss-bar-item-link">...</a> is not clickable at point (529, 592). Other element would receive the click: <th align="right">...</th>
+  (Session info: headless chrome=112.0.5615.138)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: '1810-ST-458MHX2', ip: '169.254.175.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:50869}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f51a9758adb8e861d8fd984c9d033b8
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at smrl.mr.crawljax.WebProcessor.processInput(WebProcessor.java:1026)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:657)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:615)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:686)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:674)
+	at smrl.mr.language.Operations.Output(Operations.java:784)
+	at smrl.mr.owasp.CWE_262_263_309_324.mr(CWE_262_263_309_324.java:14)
+	at smrl.mr.language.MR.iterateMR(MR.java:371)
+	at smrl.mr.language.MR.iterateMR(MR.java:442)
+	at smrl.mr.language.MR.run(MR.java:200)
+	at smrl.mr.language.MRRunner.runAndGetFailures(MRRunner.java:79)
+	at smrl.mr.language.MRBaseTest.test(MRBaseTest.java:44)
+	at cwe.tests.CWETest.Test_CWE138(CWETest.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:768)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 86
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 17588
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:13:56 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="rssAll" class="rss-bar-item-link">...</a> is not clickable at point (420, 592). Other element would receive the click: <th align="left">...</th>
+  (Session info: headless chrome=112.0.5615.138)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: '1810-ST-458MHX2', ip: '169.254.175.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:51010}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ffa8e81f2171db97dae94719a69216cb
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at smrl.mr.crawljax.WebProcessor.processInput(WebProcessor.java:1026)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:657)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:615)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:686)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:674)
+	at smrl.mr.language.Operations.Output(Operations.java:784)
+	at smrl.mr.owasp.CWE_262_263_309_324.mr(CWE_262_263_309_324.java:14)
+	at smrl.mr.language.MR.iterateMR(MR.java:371)
+	at smrl.mr.language.MR.iterateMR(MR.java:442)
+	at smrl.mr.language.MR.run(MR.java:200)
+	at smrl.mr.language.MRRunner.runAndGetFailures(MRRunner.java:79)
+	at smrl.mr.language.MRBaseTest.test(MRBaseTest.java:44)
+	at cwe.tests.CWETest.Test_CWE138(CWETest.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:768)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 87
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22946
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:14:27 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 88
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 23466
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:14:56 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 89
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 7188
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:15:26 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 90
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 7113
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:15:56 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 91
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 1240
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:16:26 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/legend" class="rss-bar-legend-link">...</a> is not clickable at point (334, 592). Other element would receive the click: <th align="left">...</th>
+  (Session info: headless chrome=112.0.5615.138)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: '1810-ST-458MHX2', ip: '169.254.175.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:51249}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 980bcab79fb80ec2275c759a6b157d28
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at smrl.mr.crawljax.WebProcessor.processInput(WebProcessor.java:1026)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:657)
+	at smrl.mr.crawljax.WebProcessor.output(WebProcessor.java:615)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:686)
+	at smrl.mr.crawljax.WebOperationsProvider.Output(WebOperationsProvider.java:674)
+	at smrl.mr.language.Operations.Output(Operations.java:784)
+	at smrl.mr.owasp.CWE_262_263_309_324.mr(CWE_262_263_309_324.java:14)
+	at smrl.mr.language.MR.iterateMR(MR.java:371)
+	at smrl.mr.language.MR.iterateMR(MR.java:442)
+	at smrl.mr.language.MR.run(MR.java:200)
+	at smrl.mr.language.MRRunner.runAndGetFailures(MRRunner.java:79)
+	at smrl.mr.language.MRBaseTest.test(MRBaseTest.java:44)
+	at cwe.tests.CWETest.Test_CWE138(CWETest.java:95)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:768)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 92
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 20886
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:16:57 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 93
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 49146
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:17:27 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 94
+Operation input length:13
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 24885
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:18:00 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 13
+Total number of executed actions : 13
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 95
+Operation input length:13
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 41449
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:18:35 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 13
+Total number of executed actions : 13
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 96
+Operation input length:14
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 8350
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:19:10 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 14
+Total number of executed actions : 14
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 97
+Operation input length:13
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 45066
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:19:47 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 13
+Total number of executed actions : 13
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 98
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47643
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:20:22 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 99
+Operation input length:13
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 23908
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:20:55 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 13
+Total number of executed actions : 13
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 100
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22590
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:21:30 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 101
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 26230
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:22:04 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 102
+Operation input length:13
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 46935
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:22:37 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 13
+Total number of executed actions : 13
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 103
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 17552
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:23:12 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 104
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 10319
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:23:46 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 105
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 48144
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:24:19 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 106
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 36117
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:24:52 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 107
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 18591
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:25:18 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 108
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 21444
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:25:39 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 109
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 33862
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:25:57 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 110
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 3189
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:26:13 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 111
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 31537
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:26:30 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 112
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 42054
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:26:48 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 113
+Operation input length:4
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 15566
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:27:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 4
+Total number of executed actions : 4
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 114
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions : 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 115
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions : 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 116
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions : 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 117
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions : 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 118
+MR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 0
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 0
+Total number of executed actions : 0
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 119
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 15186
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:27:15 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 120
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 24990
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:27:32 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 121
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 40958
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:27:46 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 122
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 3449
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:28:01 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 123
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 39592
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:28:18 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 124
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 21546
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:28:38 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 125
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 24024
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:28:52 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 126
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 21777
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:29:06 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 127
+Operation input length:5
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 13536
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:29:20 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 5
+Total number of executed actions : 5
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 128
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 11724
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:29:34 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 129
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 27635
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:29:51 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 130
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 6174
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:30:07 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 131
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 10008
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:30:24 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 132
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 1901
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:30:52 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 133
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 3931
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:31:15 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 134
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 34338
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:31:39 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 135
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 46224
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:32:02 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 136
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 12629
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:32:27 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 137
+Operation input length:12
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 26699
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:33:04 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 12
+Total number of executed actions : 12
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 138
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 40106
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:33:43 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 139
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 16149
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:34:06 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 140
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 19258
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:34:31 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 141
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4322
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:34:57 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 142
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 37319
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:35:23 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 143
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 2098
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:35:42 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 144
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 38249
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:36:01 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 145
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 23192
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:36:20 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 146
+Operation input length:6
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 27708
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:36:39 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 6
+Total number of executed actions : 6
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 147
+Operation input length:10
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 29237
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:36:56 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 10
+Total number of executed actions : 10
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 148
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 14768
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:37:21 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 149
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4189
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:37:45 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 150
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4951
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:38:08 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 151
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22694
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:38:31 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 152
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 47756
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:38:56 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 153
+Operation input length:9
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 34226
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:39:22 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 9
+Total number of executed actions : 9
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 154
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 30811
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:39:48 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 155
+Operation input length:11
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 24645
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:40:19 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 11
+Total number of executed actions : 11
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 156
+Operation input length:8
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 4551
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:40:50 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 8
+Total number of executed actions : 8
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 157
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 22996
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:41:11 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 158
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 32066
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:41:30 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+!!!! Considering a subset of Inputs: 
+!!!! totalSplits: 160
+!!!! selectedSplit: 159
+Operation input length:7
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 40679
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr. 24, 2023 11:41:49 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+		!!! Cannot get id for the action: 		!!! Cannot get id for the action: augmented actionMR tested with 1 sets of inputs
+Source input instances : 1
+Follow-up input instances : 0
+	Input source input instances: 1 follow-up input instances: 0
+Source input sequences (Input) : 1
+Follow-up input sequences (Input) : 0
+Follow-up inputs sequences executed : 0
+Source inputs sequences executed : 1
+Actions belonging to Follow-up input sequences executed : 0
+Actions belonging to Source input sequences executed : 7
+Total number of executed actions : 7
+********DEBUG: CWE 138 Logic A took 3371 Seconds
+*** Ending time: 2023-04-24 11:42:07 ***
