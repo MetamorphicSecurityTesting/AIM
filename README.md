@@ -1,15 +1,6 @@
 #This repository is being completed. For any inquiries please contact: n.bayati@uottawa.ca
 
 
-# AIM Database
-
-
-## Description
-
-This repository contains examples for the
-[Automated Inputset Minimizer](https://github.com/MetamorphicSecurityTesting/AimInputSetMinimizer)
-(AIM) pipeline.
-
 
 ## Installation
 
