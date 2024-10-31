@@ -1,0 +1,13 @@
+cython>=0.27
+pandas==1.5.2
+numpy==1.26.0
+scipy
+scikit-learn
+joblib
+threadpoolctl>=2.0.0
+hyper
+abydos
+matplotlib
+hdbscan
+Levenshtein
+pymoo~=0.4.2.1
