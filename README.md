@@ -1,6 +1,6 @@
-#This repository is being completed. For any inquiries please contact: n.bayati@uottawa.ca
+## How to cite this work
 
-
+N. Bayati Chaleshtari, Y. Marquer, F. Pastore, and L. Briand, "AIM: Automated Input Set Minimization for Metamorphic Security Testing," IEEE Transactions on Software Engineering, 2024, doi: 10.1109/TSE.2024.3488525.
 
 ## Installation
 
