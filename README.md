@@ -268,12 +268,13 @@ First, for the vulnerability coverage, with results from both Jenkins and Joomla
 genVulnTable Results/Jenkins/jenkins_analysis.json jenkins Results/Joomla/joomla_analysis.json joomla -o Results/Both/vulnerability_coverage.tex -c Results/Both/colors.json -v
 ```
 
-## How to cite this work
-
-N. Bayati Chaleshtari, Y. Marquer, F. Pastore, and L. Briand, "AIM: Automated Input Set Minimization for Metamorphic Security Testing," IEEE Transactions on Software Engineering, 2024, doi: 10.1109/TSE.2024.3488525.
 
 This will also generate a `colors.json` file, which is used to generate the duel tables separately for Jenkins and Joomla:
 ```
 genDuelTables Results/Jenkins/jenkins_duels.json -s jenkins -c Results/Both/colors.json -d Results/Jenkins/Tables -v
 genDuelTables Results/Joomla/joomla_duels.json -s joomla -c Results/Both/colors.json -d Results/Joomla/Tables -v
 ```
+
+## How to cite this work
+
+N. Bayati Chaleshtari, Y. Marquer, F. Pastore, and L. Briand, "AIM: Automated Input Set Minimization for Metamorphic Security Testing," IEEE Transactions on Software Engineering, 2024, doi: 10.1109/TSE.2024.3488525.
