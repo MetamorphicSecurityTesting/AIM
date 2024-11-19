@@ -1,5 +1,13 @@
+We have provided the following details regarding the AIM tool:
 
-## Installation
+- [Quick Start: End-to-End Installation and Usage](#end-to-end-installation-and-usage)
+- [Step-by-Step Guide for Installation and Usage](#step-by-step-guide-for-installation-and-usage)
+- [Evaluating the Tool: Key Metrics and Techniques](#evaluating-the-tool-key-metrics-and-techniques)
+- [Generating Tables](#generating-tables)
+- [How to Cite This Work](#how-to-cite-this-work)
+
+
+## End to End Installation and Usage
 
 To walk you through using the AIM pipeline, we set up
 [this repository](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/AimDatabase) 
@@ -57,12 +65,12 @@ Once everything is set up, you can begin using the AIM pipeline.
 
 ## Usage: Minimize Inputs
 
-In the examples directory, first navigate to the `Example1` directory, which contains the following files:
+In the examples directory, first navigate to the `Example` directory, which contains the following files:
 - `inputset.json` is the input set to be minimized
 - `costs.csv` contains cost information obtained from the updated [MST](https://github.com/MetamorphicSecurityTesting/MST) framework
 - `outputs.zip` contains output information obtained from the [MST](https://github.com/MetamorphicSecurityTesting/MST) framework, and that requires to be unzipped:
 ```
-cd Example1
+cd Example
 tar -xf outputs.zip
 ```
 
@@ -105,13 +113,51 @@ deactivate
 ```
 
 
-## Usage: Step by Step
+## Step by Step Guide for Installation and Usage
+
+First, you can set up and activate a virtual environment in your working directory with, for Mac/Linux:
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Alternatively, for Windows:
+```
+python -m venv venv
+venv\Scripts\activate
+```
+
+The following assumes Mac/Linux.
+For Windows users, please use `python` instead of `python3`.
+
+In any case, to install the packages we use `pip`.
+You can update the installer to the latest version, then install AIM and its evaluation framework using:
+```
+pip install --upgrade pip setuptools
+```
+Then you need to install each component in the following order:
+```
+cd PreProcessing/
+pip install .
+cd ../OutputClustering/
+pip install .
+cd ../ActionClustering/
+pip install .
+cd ../IMPRO/
+pip install .
+cd ../MOCCO/
+pip install .
+cd ../PostProcessing/
+pip install .
+cd ../AimOrchestration/
+pip install .
+```
 
 Alternatively, instead of using the `minimize-inputs` command line, you can execute several commands to observe the different steps of the execution, or in case you already have intermediate files (like the ones in the `Duplicate` directory) and thus you do not need to generate them again.
 
 As before, in the examples directory, first navigate to the `RunningExample` directory, containing the `inputset.json`, `costs.csv`, and `outputs.zip` files, then unzip the output data:
 ```
-cd Example1
+cd Example
 tar -xf outputs.zip
 ```
 
@@ -205,7 +251,7 @@ Finally, you can close your virtual environment.
 deactivate
 ```
 
-## Evaluation
+## Evaluating the Tool: Key Metrics and Techniques
 
 We consider two systems under test: Jenkins and Joomla.
 
@@ -261,7 +307,7 @@ evalAim Results/Joomla/joomla_results.json -b Results/Joomla/joomla_baselines.js
 ```
 
 
-### Tables
+### Generating Tables
 
 Finally, you can generate LaTeX tables representing the analysis results.
 First, for the vulnerability coverage, with results from both Jenkins and Joomla:
@@ -276,6 +322,6 @@ genDuelTables Results/Jenkins/jenkins_duels.json -s jenkins -c Results/Both/colo
 genDuelTables Results/Joomla/joomla_duels.json -s joomla -c Results/Both/colors.json -d Results/Joomla/Tables -v
 ```
 
-## How to cite this work
+## How to Cite This Work
 
 N. Bayati Chaleshtari, Y. Marquer, F. Pastore, and L. Briand, "AIM: Automated Input Set Minimization for Metamorphic Security Testing," IEEE Transactions on Software Engineering, 2024, doi: 10.1109/TSE.2024.3488525.
