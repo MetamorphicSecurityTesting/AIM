@@ -29,6 +29,7 @@ In any case, to install the packages we use `pip`.
 You can update the installer to the latest version, then install AIM and its evaluation framework using:
 ```
 pip install --upgrade pip setuptools
+cd AimDatabase
 pip install .
 ```
 
