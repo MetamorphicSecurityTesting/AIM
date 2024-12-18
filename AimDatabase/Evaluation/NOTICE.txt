@@ -1,4 +1,4 @@
-Software MOCCO is © 2022-2024 University of Luxembourg
+Evaluation scripts for AIM are © 2023-2024 University of Luxembourg
 
 Author: Yoann Marquer - yoann.marquer@uni.lu
 

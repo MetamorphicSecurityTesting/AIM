@@ -1,6 +1,8 @@
-Software MOCCO is © 2022-2024 University of Luxembourg
+Software AIM is © 2022-2024 University of Ottawa (for code authored by Nazanin Bayati Chaleshtari), University of Luxembourg (for code authored by Yoann Marquer)
 
-Author: Yoann Marquer - yoann.marquer@uni.lu
+Authors:
+   - Nazanin Bayati Chaleshtari - n.bayati@uottawa.ca
+   - Yoann Marquer - yoann.marquer@uni.lu
 
 ----
 

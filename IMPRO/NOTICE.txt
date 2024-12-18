@@ -1,4 +1,4 @@
-Software IMPRO is © 2023-2024 University of Luxembourg
+Software IMPRO is © 2022-2024 University of Luxembourg
 
 Author: Yoann Marquer - yoann.marquer@uni.lu
 
