@@ -24,8 +24,6 @@ collections.MutableSet = collections.abc.MutableSet
 collections.MutableMapping = collections.abc.MutableMapping
 #Now import hyper
 import hyper
-# from numpy import float64 as np_float
-# import abydos.distance as ad
 import textdistance
 import os
 import numpy as np
