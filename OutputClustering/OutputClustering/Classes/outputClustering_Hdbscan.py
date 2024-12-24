@@ -19,15 +19,11 @@
 import collections.abc
 #hyper needs the four following aliases to be done manually.
 # import ActionClustering.Classes.actionClustering_Dbscan
-
-
 collections.Iterable = collections.abc.Iterable
 collections.Mapping = collections.abc.Mapping
 collections.MutableSet = collections.abc.MutableSet
 collections.MutableMapping = collections.abc.MutableMapping
-#Now import hyper
 import hyper
-# import abydos.distance as ad
 import textdistance
 import numpy as np
 import pandas as pd
