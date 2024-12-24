@@ -25,9 +25,7 @@ collections.Iterable = collections.abc.Iterable
 collections.Mapping = collections.abc.Mapping
 collections.MutableSet = collections.abc.MutableSet
 collections.MutableMapping = collections.abc.MutableMapping
-#Now import hyper
 import hyper
-# import abydos.distance as ad
 import numpy as np
 import hdbscan
 import pandas as pd
