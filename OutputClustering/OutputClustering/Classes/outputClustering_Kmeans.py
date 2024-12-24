@@ -22,9 +22,7 @@ collections.Iterable = collections.abc.Iterable
 collections.Mapping = collections.abc.Mapping
 collections.MutableSet = collections.abc.MutableSet
 collections.MutableMapping = collections.abc.MutableMapping
-#Now import hyper
 import hyper
-# import abydos.distance as ad
 import textdistance
 from OutputClustering.Classes import Main
 from OutputClustering.Classes.pareto_Kmeans_outputClasses import pareto_kmeans
