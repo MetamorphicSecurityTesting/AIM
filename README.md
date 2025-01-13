@@ -15,8 +15,8 @@ To walk you through using the AIM pipeline, we set up
 with examples.
 You can clone and navigate the corresponding directory by running:
 ```
-git clone ssh://git@github.com/MetamorphicSecurityTesting/AIM/tree/main/AimDatabase.git
-cd AimDatabase
+git clone ssh://git@github.com/MetamorphicSecurityTesting/AIM/.git
+
 ```
 
 First, you can set up and activate a virtual environment in your working directory with, for Mac/Linux:
