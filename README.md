@@ -1,13 +1,14 @@
 We have provided the following details regarding the AIM tool:
 
-- [Quick Start: End-to-End Installation and Usage](#end-to-end-installation-and-usage)
+- [Prepare the Test Environment](#prepare-the-test-environment )
+- [Perform Input set minimization](#perform-input-set-minimization)
 - [Perform Input Set Minimization (step-by-step)](#perform-input-set-minimization-(step-by-step))
 - [Evaluating the Tool: Key Metrics and Techniques](#evaluating-the-tool-key-metrics-and-techniques)
 - [Generating Tables](#generating-tables)
 - [How to Cite This Work](#how-to-cite-this-work)
 
 
-## End to End Installation and Usage
+## Prepare the Test Environment 
 
 To walk you through using the AIM pipeline, we set up
 [this repository](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/AimDatabase) 
@@ -70,7 +71,7 @@ exit()
 Once everything is set up, you can begin using the AIM pipeline.
 
 
-## Usage: Minimize Inputs
+## Perform Input set minimization
 
 We have provided the required inputs to replicate the results for Jenkins and Joomla in AimDatabase/Data/Jenkins and AimDatabase/Data/Joomla directories, which contain the following files: 
 
