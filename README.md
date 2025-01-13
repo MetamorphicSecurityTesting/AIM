@@ -1,7 +1,7 @@
 We have provided the following details regarding the AIM tool:
 
 - [Quick Start: End-to-End Installation and Usage](#end-to-end-installation-and-usage)
-- [Step-by-Step Guide for Installation and Usage](#step-by-step-guide-for-installation-and-usage)
+- [Perform Input Set Minimization (step-by-step)](#perform-input-set-minimization-(step-by-step))
 - [Evaluating the Tool: Key Metrics and Techniques](#evaluating-the-tool-key-metrics-and-techniques)
 - [Generating Tables](#generating-tables)
 - [How to Cite This Work](#how-to-cite-this-work)
@@ -32,13 +32,20 @@ venv\Scripts\activate
 
 The following assumes Mac/Linux.
 For Windows users, please use `python` instead of `python3`.
-
+Please note that you need Python 3.11 or before. 
+ 
+Please unzip the following files PreProcessing, OutputClustering, ActionClustering, IMPRO, MOCCO, PostProcessing, and AimOrchestration. 
 In any case, to install the packages we use `pip`.
 You can update the installer to the latest version, then install AIM and its evaluation framework using:
 ```
-pip install --upgrade pip setuptools
-cd AimDatabase
-pip install .
+pip install --upgrade pip setuptools 
+pip install ./PreProcessing 
+pip install ./OutputClustering 
+pip install ./ActionClustering 
+pip install ./IMPRO 
+pip install ./MOCCO 
+pip install ./PostProcessing 
+pip install ./AimOrchestration 
 ```
 
 Using dependencies, this will install the AIM
@@ -65,38 +72,29 @@ Once everything is set up, you can begin using the AIM pipeline.
 
 ## Usage: Minimize Inputs
 
-In the examples directory, first navigate to the `Example` directory, which contains the following files:
-- `inputset.json` is the input set to be minimized
-- `costs.csv` contains cost information obtained from the updated [MST](https://github.com/MetamorphicSecurityTesting/MST) framework
-- `outputs.zip` contains output information obtained from the [MST](https://github.com/MetamorphicSecurityTesting/MST) framework, and that requires to be unzipped:
-```
-cd Example
-tar -xf outputs.zip
-```
+We have provided the required inputs to replicate the results for Jenkins and Joomla in AimDatabase/Data/Jenkins and AimDatabase/Data/Joomla directories, which contain the following files: 
 
-Then, you can run the AIM pipeline as a whole, using the following command:
+- `inputset.json` is the input set to be minimized 
+- `costs.csv` contains cost information  
+- `outputs.zip` contains output information and it requires to be unzipped 
+- `Duplicate` folder contains the expected results of input set minimization and all generated intermediate files 
+Then, you can run the AIM pipeline as a whole, using the following command for Jenkins: 
+
 ```
-minimize-inputs inputset.json outputs.txt costs.csv -d Levenshtein -o Kmeans -a Kmeans -v
+minimize-inputs inputset.json outputs.txt costs.csv -d Levenshtein -o Kmeans -a Kmeans -s jenkins -v 
 ```
 
-The `-d` (output distance) argument is optional.
-The supported distances are Levenshtein and bag distances.
-By default, all the options are executed.
+The `-d` (output distance) argument is optional. The supported distances are Levenshtein and bag distances. By default, all the options are executed. 
+The `-o` (output clustering algorithm) argument is optional. The supported algorithms are Kmeans, DBSCAN, and HDBSCAN. By default, all the options are executed. 
+The `-a` (action clustering algorithm) argument is optional. The supported algorithms are Kmeans, DBSCAN, and HDBSCAN. By default, all the options are executed. 
+The `-s` (system under test) argument is mandatory. The supported system under tests are Jenkins and Joomla. 
 
-The `-o` (output clustering algorithm) argument is optional.
-The supported algorithms are Kmeans, DBSCAN, and HDBSCAN.
-By default, all the options are executed.
+Note that, for each combination of distance, output clustering algorithm, and action clustering algorithm, results would be produced in a Dist_Out/Act directory, where Dist is the corresponding distance, Out is the corresponding output clustering algorithm, and Act is the corresponding action clustering algorithm. 
 
-The `-a` (action clustering algorithm) argument is optional.
-The supported algorithms are Kmeans, DBSCAN, and HDBSCAN.
-By default, all the options are executed.
+Finally, the `-v` (verbose) argument is optional. It commands the tool to display information in the console during execution. 
 
-Note that, for each combination of distance, output clustering algorithm, and action clustering algorithm, results would be produced in a `Dist_Out/Act` directory, where `Dist` is the corresponding distance, `Out` is the corresponding output clustering algorithm, and `Act` is the corresponding action clustering algorithm.
+At the end of the execution, you should obtain in the console an output like: 
 
-Finally, the `-v` (verbose) argument is optional.
-It commands the tool to display information in the console during execution.
-
-At the end of the execution, you should obtain in the console an output like:
 ```
 (...)
 42 inputs selected: 2, 3, 7, 9, 10, 33, 34, 37, 38, 51, 53, 54, 61, 64, 75, 76, 79, 87, 88, 93, 96, 99, 104, 108, 114, 120, 121, 122, 123, 125, 129, 132, 134, 135, 139, 141, 147, 151, 154, 156, 157, 159
@@ -113,138 +111,89 @@ deactivate
 ```
 
 
-## Step by Step Guide for Installation and Usage
+## Perform input set minimization (step-by-step)
 
-First, you can set up and activate a virtual environment in your working directory with, for Mac/Linux:
+Alternatively, instead of using the `minimize-inputs` command line, you can execute several commands to observe the different steps of the execution, or in case you already have intermediate files (like the ones in the Duplicate directory) and thus you do not need to generate them again. 
+ 
+ 
+## Preprocessing 
+As before, first navigate to the `AimDatabase/Data/Jekins` or `AimDatabase/Data/Joomla` directory, containing the `inputset.json`, `costs.csv`, and `outputs.zip` files, then unzip the output data. 
+ 
+Then, you can extract the relevant input and output information required for the following steps by running: 
 ```
-python3 -m venv venv
-source venv/bin/activate
+preprocess-data inputset.json outputs.txt costs.csv -s jenkins –v 
 ```
+The `-s` (system under test) argument is mandatory. The supported system under tests are Jenkins and Joomla. 
+The `-v` (verbose) argument is optional. It commands the tool to display information in the console during execution. 
 
-Alternatively, for Windows:
-```
-python -m venv venv
-venv\Scripts\activate
-```
+Executing the `preprocess-data` command would generate the following files: 
+- `inputset_preprocessed.csv`, containing input information for the inputs, and 
+- `outputs_preprocessed.csv`, containing the relevant output information. 
 
-The following assumes Mac/Linux.
-For Windows users, please use `python` instead of `python3`.
+In case you do not want to execute this step, you may use instead in the following steps the `inputset_preprocessed.csv` and `outputs_preprocessed.csv` files from the Duplicate directory. 
 
-In any case, to install the packages we use `pip`.
-You can update the installer to the latest version, then install AIM and its evaluation framework using:
+## Output Clustering 
+
+You can cluster the pre-processed outputs by running: 
 ```
-pip install --upgrade pip setuptools
-```
-Then you need to install each component in the following order:
-```
-cd PreProcessing/
-pip install .
-cd ../OutputClustering/
-pip install .
-cd ../ActionClustering/
-pip install .
-cd ../IMPRO/
-pip install .
-cd ../MOCCO/
-pip install .
-cd ../PostProcessing/
-pip install .
-cd ../AimOrchestration/
-pip install .
+cluster-outputs outputs_preprocessed.csv -d Levenshtein -o Kmeans -v 
 ```
 
-Alternatively, instead of using the `minimize-inputs` command line, you can execute several commands to observe the different steps of the execution, or in case you already have intermediate files (like the ones in the `Duplicate` directory) and thus you do not need to generate them again.
+The `-d` (output distance) argument is optional. The supported distances are Levenshtein and bag distances. By default, all the options are executed. 
+The `-o` (output clustering algorithm) argument is optional. The supported algorithms are Kmeans, DBSCAN, and HDBSCAN. By default, all the options are executed. 
+The `-v` (verbose) argument is optional. It commands the tool to display information in the console during execution. 
 
-As before, in the examples directory, first navigate to the `RunningExample` directory, containing the `inputset.json`, `costs.csv`, and `outputs.zip` files, then unzip the output data:
+Executing the `cluster-outputs` command would generate the `outputs_classes.csv` file in the Lev_Kmeans directory. In case you do not want to execute this step, you may use instead in the following steps the `inputset_classes.csv` file from the Duplicate/Lev_Kmeans directory. 
+ 
+## Action Clustering 
+You can cluster the initial inputs by running the following command: 
+
 ```
-cd Example
-tar -xf outputs.zip
-```
-
-Then, you can extract the relevant input and output information required for the following steps by running:
-```
-preprocess-data inputset.json outputs.txt costs.csv -v
-```
-
-The `-v` (verbose) argument is optional.
-It commands the tool to display information in the console during execution.
-
-Executing the `preprocess-data` command would generate the following files:
-- `inputset_preprocessed.csv`, containing input information for the inputs with a cost > 0, and
-- `outputs_preprocessed.csv`, containing the relevant output information.
-
-In case you do not want to execute this step, you may use instead in the following steps the `inputset_preprocessed.csv` and `outputs_preprocessed.csv` files from the `Duplicate` directory.
-
-Then, you can cluster the pre-processed outputs by running:
-```
-cluster-outputs outputs_preprocessed.csv -d Levenshtein -o Kmeans -v
+cluster-actions inputset_preprocessed.csv Lev_Kmeans/inputset_classes.csv -a Kmeans -v 
 ```
 
-The `-d` (output distance) argument is optional.
-The supported distances are Levenshtein and bag distances.
-By default, all the options are executed.
+The `-a` (action clustering algorithm) argument is optional. The supported algorithms are Kmeans, DBSCAN, and HDBSCAN. By default, all the options are executed. 
+The `-v` (verbose) argument is optional. It commands the tool to display information in the console during execution. 
 
-The `-o` (output clustering algorithm) argument is optional.
-The supported algorithms are Kmeans, DBSCAN, and HDBSCAN.
-By default, all the options are executed.
+Executing the `cluster-actions` command would generate the `inputset_action_subclasses.csv` file in the Lev_Kmeans/Kmeans directory. In case you do not want to execute this step, you may use instead in the following steps the `inputset_action_subclasses.csv` file from the Duplicate/Lev_Kmeans/Kmeans directory. 
 
-The `-v` (verbose) argument is optional.
-It commands the tool to display information in the console during execution.
+##  Problem reduction (IMPRO)  
+You can reduce the problem of minimizing the cost of the input set while covering all action subclasses, by running: 
 
-Executing the `cluster-outputs` command would generate the `outputs_classes.csv` file in the `Lev_Kmeans` directory.
-In case you do not want to execute this step, you may use instead in the following steps the `outputs_classes.csv` file from the `Duplicate/Lev_Kmeans` directory.
-
-Then, you can cluster the initial inputs by running:
 ```
-cluster-actions inputset_preprocessed.csv Lev_Kmeans/outputs_classes.csv -a Kmeans -v
+reduce-problem Lev_Kmeans/Kmeans/inputset_action_subclasses.csv costs.csv -v 
 ```
 
-The `-a` (action clustering algorithm) argument is optional.
-The supported algorithms are Kmeans, DBSCAN, and HDBSCAN.
-By default, all the options are executed.
+The `-v` (verbose) argument is optional. It commands the tool to display information in the console during execution. 
 
-The `-v` (verbose) argument is optional.
-It commands the tool to display information in the console during execution.
+Executing the reduce-problem command would generate in the Lev_Kmeans/Kmeans directory the following files: 
+- `inputset_necessary.csv`, containing information on the inputs that have to be present in the final solution, and 
+- `inputset_components.csv`, containing information on the inputs which belongs to the input set components. 
 
-Executing the `cluster-actions` command would generate the `inputset_action_subclasses.csv` file in the `Lev_Kmeans/Kmeans` directory.
-In case you do not want to execute this step, you may use instead in the following steps the `inputset_action_subclasses.csv` file from the `Duplicate/Lev_Kmeans/Kmeans` directory.
+In case you do not want to execute this step, you may use instead in the following steps the `inputset_necessary.csv` and `inputset_components.csv` files from the Duplicate/Lev_Kmeans/Kmeans directory. 
 
-Then, you can reduce the problem of minimizing the cost of the input set while covering all action subclasses, by running:
+## A novel genetic search (MOCCO) 
+
+Then, you can run the genetic search on each input set component, by running: 
+
 ```
-reduce-problem Lev_Kmeans/Kmeans/inputset_action_subclasses.csv costs.csv -v
+minimize-components Lev_Kmeans/Kmeans/inputset_components.csv -v 
 ```
+The `-v` (verbose) argument is optional. It commands the tool to display information in the console during execution. 
 
-The `-v` (verbose) argument is optional.
-It commands the tool to display information in the console during execution.
+Executing the `minimize-components` command would generate the `inputset_components_minimized.csv` file in the Lev_Kmeans/Kmeans directory. In case you do not want to execute this step, you may use instead in the last step the `inputset_components_minimized.csv` file from the Duplicate/Lev_Kmeans/Kmeans directory. 
 
-Executing the `reduce-problem` command would generate in the `Lev_Kmeans/Kmeans` directory the following files:
-- `inputset_necessary.csv`, containing information on the inputs that have to be present in the final solution, and
-- `inputset_components.csv`, containing information on the inputs which belongs to the input set components.
 
-In case you do not want to execute this step, you may use instead in the following steps the `inputset_necessary.csv` and `inputset_components.csv` files from the `Duplicate/Lev_Kmeans/Kmeans` directory.
+## Postprocessing 
 
-Then, you can run the genetic search on each inputset component, by running:
+Finally, you can gather necessary inputs with inputs from the minimized components, and use the original JSON file to construct the final solution: 
 ```
-minimize-components Lev_Kmeans/Kmeans/inputset_components.csv -v
+postprocess-data inputset.json Lev_Kmeans/Kmeans/inputset_necessary.csv Lev_Kmeans/Kmeans/inputset_components_minimized.csv -v 
 ```
 
-The `-v` (verbose) argument is optional.
-It commands the tool to display information in the console during execution.
+The `-v` (verbose) argument is optional. It commands the tool to display information in the console during execution. 
 
-Executing the `minimize-components` command would generate the `inputset_components_minimized.csv` file in the `Lev_Kmeans/Kmeans` directory.
-In case you do not want to execute this step, you may use instead in the last step the `inputset_components_minimized.csv` file from the `Duplicate/Lev_Kmeans/Kmeans` directory.
-
-Then, you can gather necessary inputs with inputs from the minimized components, and use the original json file to construct the final solution:
-```
-postprocess-data inputset.json Lev_Kmeans/Kmeans/inputset_necessary.csv Lev_Kmeans/Kmeans/inputset_components_minimized.csv -v
-```
-
-The `-v` (verbose) argument is optional.
-It commands the tool to display information in the console during execution.
-
-Executing the `postprocess-data` command would generate the `inputset_minimized.json` file in the `Lev_Kmeans/Kmeans` directory.
-It contains the selected inputs and it can be used to execute metamorphic relations.
-In case you want to directly execute metamorphic relations, you may use instead the `inputset_minimized.json` file from the `Duplicate/Lev_Kmeans/Kmeans` directory.
+Executing the `postprocess-data` command would generate the `inputset_minimized.json` file in the Lev_Kmeans/Kmeans directory. It contains the selected inputs and it can be used to execute metamorphic relations. In case you want to directly execute metamorphic relations, you may use instead the `inputset_minimized.json` file from the Duplicate/Lev_Kmeans/Kmeans directory. 
 
 Finally, you can close your virtual environment.
 ```
