@@ -10,9 +10,6 @@ We have provided the following details regarding the AIM tool:
 
 ## Prepare the Test Environment 
 
-To walk you through using the AIM pipeline, we set up
-[this repository](https://github.com/MetamorphicSecurityTesting/AIM/tree/main/AimDatabase) 
-with examples.
 You can clone and navigate the corresponding directory by running:
 ```
 git clone ssh://git@github.com/MetamorphicSecurityTesting/AIM/.git
@@ -73,14 +70,14 @@ Once everything is set up, you can begin using the AIM pipeline.
 
 ## Perform Input set minimization
 
-We have provided the required inputs to replicate the results for Jenkins and Joomla in AimDatabase/Data/Jenkins and AimDatabase/Data/Joomla directories, which contain the following files: 
+We have provided the required inputs to replicate the results for Jenkins and Joomla in `AimDatabase/Data/Jenkins` and `AimDatabase/Data/Joomla` directories, which contain the following files: 
 
 - `inputset.json` is the input set to be minimized 
 - `costs.csv` contains cost information  
 - `outputs.zip` contains output information and it requires to be unzipped 
 - `Duplicate` folder contains the expected results of input set minimization and all generated intermediate files 
-Then, you can run the AIM pipeline as a whole, using the following command for Jenkins: 
 
+Then, you can run the AIM pipeline as a whole, using the following command for Jenkins:
 ```
 minimize-inputs inputset.json outputs.txt costs.csv -d Levenshtein -o Kmeans -a Kmeans -s jenkins -v 
 ```
@@ -118,7 +115,7 @@ Alternatively, instead of using the `minimize-inputs` command line, you can 
  
  
 ## Preprocessing 
-As before, first navigate to the `AimDatabase/Data/Jekins` or `AimDatabase/Data/Joomla` directory, containing the `inputset.json`, `costs.csv`, and `outputs.zip` files, then unzip the output data. 
+As before, first navigate to the `AimDatabase/Data/Jenkins` or `AimDatabase/Data/Joomla` directory, containing the `inputset.json`, `costs.csv`, and `outputs.zip` files, then unzip the output data. 
  
 Then, you can extract the relevant input and output information required for the following steps by running: 
 ```
@@ -207,24 +204,7 @@ We consider two systems under test: Jenkins and Joomla.
 
 ### Jenkins
 
-If necessary, you can extract execution time data from an Excel spreadsheet by first converting it to a CSV file, then converting it into a JSON file.
-Here, we use as example a spreadsheet for AIM execution time.
-In Excel, save the spreadsheet as CSV, obtaining the `aim_execution_time.csv` file, that you can move in the appropriate directory, for instance `Results/Jenkins/`.
-The following step requires separators in that file to be commas.
-If this is not the case, then go to `Excel Preferences > Edit > Edit Options` to untick `Use system separators` and replace `Decimal separator` by `.` and `Thousands separator` by `,`.
-Then, you can convert it to JSON using:
-```
-csvToJson Results/Jenkins/aim_execution_time.csv -v
-```
-obtaining the `Results/Jenkins/aim_execution_time.json` file.
-
-Once you have the `Results/Jenkins/aim_execution_time.json`, `Results/Jenkins/costs.json`, and `Results/Jenkins/vulnerabilities.json` files, as well as a `Runs` directory containing run information from `Run1` to `Run50`, you can gather all the data using:
-```
-gatherResults Results/Jenkins/vulnerabilities.json Results/Jenkins/costs.json ../../Research/Testing/AIM/Results/Jenkins/Runs Results/Jenkins/aim_execution_time.json -o Results/Jenkins/jenkins_results.json -v
-```
-obtaining the `Results/Jenkins/jenkins_results.json` output file.
-
-Then, from this file you can generate the Random Testing baseline results and gather the Adaptive Random Testing baseline results using:
+Again, you can navigate in the `AimDatabase` directory and you can generate the Random Testing baseline results and gather the Adaptive Random Testing baseline results using:
 ```
 gatherBaselines Results/Jenkins/jenkins_results.json Results/Jenkins/jenkins_baseline_art.json -o Results/Jenkins/jenkins_baselines.json -v
 ```
@@ -238,20 +218,11 @@ obtaining the `Results/Jenkins/jenkins_analysis.json` and `Results/Jenkins/jenki
 The former contains analysis results for each configuration.
 The latter contains results for the statistical metrics for duels between configurations with full vulnerability coverage.
 
-Finally, you can translate the analysis results into LaTeX tables using:
-```
-genDuelTables Results/Jenkins/jenkins_duels.json -s jenkins -c Results/Both/colors.json -d Results/Jenkins/Tables -v
-
-```
-
 
 ### Joomla
 
-For Joomla, the procedure is the same as for Jenkins.
-It requires the `Results/Joomla/aim_execution_time.json`, `Results/Joomla/costs.json`, and `Results/Joomla/vulnerabilities.json` files, as well as a `Runs` directory containing run information from `Run1` to `Run50`.
-Then, you can use the following commands to analyze the result:
+For Joomla, the procedure is the same as for Jenkins:
 ```
-gatherResults Results/Joomla/vulnerabilities.json Results/Joomla/costs.json ../../Research/Testing/AIM/Results/Joomla/Runs Results/Joomla/aim_execution_time.json -o Results/Joomla/joomla_results.json -v
 gatherBaselines Results/Joomla/joomla_results.json Results/Joomla/joomla_baseline_art.json -o Results/Joomla/joomla_baselines.json -v
 evalAim Results/Joomla/joomla_results.json -b Results/Joomla/joomla_baselines.json -a Results/Joomla/joomla_analysis.json -d Results/Joomla/joomla_duels.json -v
 ```
@@ -265,12 +236,12 @@ First, for the vulnerability coverage, with results from both Jenkins and Joomla
 genVulnTable Results/Jenkins/jenkins_analysis.json jenkins Results/Joomla/joomla_analysis.json joomla -o Results/Both/vulnerability_coverage.tex -c Results/Both/colors.json -v
 ```
 
-
 This will also generate a `colors.json` file, which is used to generate the duel tables separately for Jenkins and Joomla:
 ```
 genDuelTables Results/Jenkins/jenkins_duels.json -s jenkins -c Results/Both/colors.json -d Results/Jenkins/Tables -v
 genDuelTables Results/Joomla/joomla_duels.json -s joomla -c Results/Both/colors.json -d Results/Joomla/Tables -v
 ```
+
 
 ## How to Cite This Work
 
